@@ -135,7 +135,6 @@ public class Alarm_list_inflator extends Activity {
                 }
             }
         }
-        // Save in Shared Preferences
         return putStringInPreferences(newConcat,"al");
     }
 
